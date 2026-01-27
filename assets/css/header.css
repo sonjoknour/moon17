@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header{
+    display:flex;
+    gap:232.5px;
+}
+
+/* or I  can put (.list ul) */
+.list_ul{
+    display:flex;
+    gap:60px;
+    list-style-type:none;
+}
+
+/* ori can put (.icon ul) */
+.icon_ul{
+    display:flex;
+    gap:24px;
+    list-style-type:none;
+}
